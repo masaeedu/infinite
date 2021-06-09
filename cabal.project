@@ -1,0 +1,7 @@
+packages: .
+index-state: 2021-03-01T00:00:00Z
+source-repository-package
+  type: git
+  location: https://github.com/masaeedu/grimoire.git
+  tag: 6c6a680a9ac3cadb0f552b82245bf7b92ba4f237
+  --sha256: 00farpybb2405xblj7y75knli6l092vkbwzksgfbkri3pz9hajmw

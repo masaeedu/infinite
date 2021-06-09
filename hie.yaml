@@ -1,0 +1,10 @@
+cradle:
+  cabal:
+  - path: "./lib"
+    component: "lib:infinite"
+
+  - path: "./app"
+    component: "infinite:exe:infinite"
+
+  - path: "./app/Paths_infinite.hs"
+    component: "infinite:exe:infinite"
